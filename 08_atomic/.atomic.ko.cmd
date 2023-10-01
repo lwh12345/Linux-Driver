@@ -1,0 +1,1 @@
+cmd_/home/zzk/linux/IMX6ULL/Linux_Drivers/08_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zzk/linux/IMX6ULL/Linux_Drivers/08_atomic/atomic.ko /home/zzk/linux/IMX6ULL/Linux_Drivers/08_atomic/atomic.o /home/zzk/linux/IMX6ULL/Linux_Drivers/08_atomic/atomic.mod.o

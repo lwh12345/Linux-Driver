@@ -1,0 +1,1 @@
+cmd_/home/zzk/linux/IMX6ULL/Linux_Drivers/21_input/keyinput.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zzk/linux/IMX6ULL/Linux_Drivers/21_input/keyinput.ko /home/zzk/linux/IMX6ULL/Linux_Drivers/21_input/keyinput.o /home/zzk/linux/IMX6ULL/Linux_Drivers/21_input/keyinput.mod.o

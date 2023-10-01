@@ -1,0 +1,1 @@
+cmd_/home/zzk/linux/IMX6ULL/Linux_Drivers/25_ramdisk_withrequest/ramdisk.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zzk/linux/IMX6ULL/Linux_Drivers/25_ramdisk_withrequest/ramdisk.ko /home/zzk/linux/IMX6ULL/Linux_Drivers/25_ramdisk_withrequest/ramdisk.o /home/zzk/linux/IMX6ULL/Linux_Drivers/25_ramdisk_withrequest/ramdisk.mod.o
